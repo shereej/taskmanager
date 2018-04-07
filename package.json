@@ -29,5 +29,6 @@
     "foreman": "^2.0.0",
     "graphql-tools": "^2.23.1",
     "nodemon": "^1.17.3"
+    
   }
 }
