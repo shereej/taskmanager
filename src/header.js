@@ -5,7 +5,7 @@ import Menu from 'material-ui/svg-icons/navigation/menu';
 
 const Header = () => (
   <AppBar
-    title="Task Creator"
+    title="Kanban Board"
     iconElementLeft={<IconButton><Menu /></IconButton>}    
   />
 );
