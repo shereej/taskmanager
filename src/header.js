@@ -8,6 +8,7 @@ const Header = () => (
     title="Kanban Board"
     iconElementLeft={<IconButton><Menu /></IconButton>}    
   />
-);
+
+); 
 
 export default Header;
