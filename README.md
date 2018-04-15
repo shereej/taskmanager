@@ -10,11 +10,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   - Build the project [npm start build]
 	
 ## Table of Contents
-  Add card
-  Add Task
-  Delete task
-  Update Card
-  Delete card
+  - Add card
+  - Add Task
+  - Delete task
+  - Update Card
+  - Delete card
 
 ## Folder Structure
 
